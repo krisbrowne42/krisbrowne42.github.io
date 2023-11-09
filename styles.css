@@ -12,6 +12,7 @@ body {
 .header {
   padding: 30px;
   text-align: center;
+  font-family: serif;
   background: white;
 }
 
@@ -81,6 +82,7 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
+  font-family: cursive;
   background: #ddd;
   margin-top: 20px;
 }
